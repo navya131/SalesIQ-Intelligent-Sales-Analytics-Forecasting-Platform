@@ -17,6 +17,7 @@ and BI tools to accurately predict sales demand, optimize inventory levels, and 
 actionable insights for supply chain efficiency — minimizing costs and maximizing profitability.
 
 ---
+DEMO LINK:https://salesiq-intelligent-sales-analytics-n2tr.onrender.com/
 
 ## ✨ Core Features (9 Modules)
 
